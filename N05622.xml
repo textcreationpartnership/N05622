@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007136_0000_102AFD08CDA77BC0"/>
-            <pb facs="tcp:007136_0001_102AFD0B3567F388"/>
+            <pb facs="unknown:007136_0000_102AFD08CDA77BC0"/>
+            <pb facs="unknown:007136_0001_102AFD0B3567F388"/>
             <p>AN EXPOSTULATORY LETTER Addreſſed to <hi>NICHOLAS LEWIS,</hi> Count <hi>Zinzendorff,</hi> And Lord ADVOCATE of the <hi>Unitas Fratrum.</hi> BY <hi>G. Whitefield,</hi> A. B. Late of <hi>Pembroke</hi> College <hi>Oxford</hi>; and Chap<g ref="char:EOLhyphen"/>lain to the Right Hon. the Counteſs of <hi>Huntingdon.</hi>
             </p>
             <q>O fooliſh Galatians, who hath bewitched you? <bibl>
@@ -125,8 +125,9 @@
       </front>
       <body>
          <div type="letter">
-            <pb facs="tcp:007136_0002_102AFD0DE419D240" rendition="simple:additions"/>
-            <pb n="3" facs="tcp:007136_0003_102AFD109F3E6DA8"/>
+            <pb facs="unknown:007136_0002_102AFD0DE419D240"
+                rendition="simple:additions"/>
+            <pb n="3" facs="unknown:007136_0003_102AFD109F3E6DA8"/>
             <head>AN EXPOSTULATORY LETTER, <hi>&amp;c.</hi>
             </head>
             <opener>
@@ -134,7 +135,7 @@
             </opener>
             <p>
                <seg rend="decorInit">A</seg>LTHOUGH I am perſuaded that nothing hath a greater Tendency to ſtrengthen the Hands of Infidels, than the too frequent Altercations between the Profeſſors of Chriſtianity; yet there are certain Occaſions wherein the neceſſary Defence of the Principles of our holy Religion, as well as the Practice of it, renders public Remon<g ref="char:EOLhyphen"/>ſtrances of the greateſt Uſe and Importance. The ſacred Pages afford us many Examples of this Nature. When <hi>Aaron</hi> was prevailed on by the <hi>Iſraelites</hi> to make a golden Calf, and offer Sacrifice to it, what a holy Indignation did <hi>Moſes</hi> expreſs both againſt him and them! — When <hi>Peter</hi> and <hi>Barnabas</hi> were carried away with the Diſſimulation of the <hi>Jews,</hi> how openly did the Apoſtle <hi>Paul</hi> with<g ref="char:EOLhyphen"/>ſtand them to the Face<g ref="char:punc">▪</g> and reprove them be<g ref="char:EOLhyphen"/>fore all, becauſe they were to be blamed<g ref="char:punc">▪</g> and
-<pb n="4" facs="tcp:007136_0004_102AFD12ADDD9F78"/>
+<pb n="4" facs="unknown:007136_0004_102AFD12ADDD9F78"/>
 when this ſame Apoſtle ſaw the Churches of <hi>Corinth</hi> and <hi>Galatia</hi> in Danger of being drawn away from the Simplicity of the Goſpel, what a ferve<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>t Teſtimony did he bear againſt the Au<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -190,13 +191,13 @@ when this ſame Apoſtle ſaw the Churches of <hi>Corinth</hi> and <hi>Galatia</
                      <desc>•</desc>
                   </gap>ſh</hi> Nation.</p>
             <p>
-               <pb n="5" facs="tcp:007136_0005_102AFD147693BDA0"/>For my own Part, <hi>my Lord,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing a <hi>Folio</hi> that has been publiſhed (I preſume under <hi>your Lordſhip's</hi> Direction) about three Years ago, I am as much at a Loſs as ever to know what were the Principles and Uſages of the ancient <hi>Moravian</hi> Church; but if ſhe was originally attired in the ſame Garb in which ſhe has appeared of late amongſt many true-hearted though deluded Proteſtants, ſhe is not that ſimple, apoſtolical Church the <hi>Engliſh</hi> Brethren were made to believe ſhe was about twelve Years ago. Sure I am that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="5" facs="unknown:007136_0005_102AFD147693BDA0"/>For my own Part, <hi>my Lord,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing a <hi>Folio</hi> that has been publiſhed (I preſume under <hi>your Lordſhip's</hi> Direction) about three Years ago, I am as much at a Loſs as ever to know what were the Principles and Uſages of the ancient <hi>Moravian</hi> Church; but if ſhe was originally attired in the ſame Garb in which ſhe has appeared of late amongſt many true-hearted though deluded Proteſtants, ſhe is not that ſimple, apoſtolical Church the <hi>Engliſh</hi> Brethren were made to believe ſhe was about twelve Years ago. Sure I am that <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e can find no Traces of many of her preſent Practices in the yet more ancient, I mean the primitive Churches, and which, we all know, were really under an immediate and truly apoſtolical In<g ref="char:EOLhyphen"/>ſpection.</p>
             <p>Will <hi>your Lordſhip</hi> be pleaſed to give me Leave to deſcend to a few Particulars? Pray, <hi>my Lord,</hi> what Inſtances have we of the firſt Chriſtians walking round the Graves of their deceaſed Friends on <hi>Eaſter-day,</hi> attended with Hautboys, Trumpets, French horns, Violin<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>, and other Kinds of muſical Inſtruments? Or where have we the leaſt Mention made of Pictures of particular Perſons being brought into the firſt Chriſtian Aſſemblies, and of Candles being placed behind them, in order to give a tranſparent View of theſe Figures?—— Where was it ever known that the Picture of the Apoſtle <hi>Paul,</hi> repreſenting him handing a Gentleman and Lady up to the Side of
-<pb n="6" facs="tcp:007136_0006_102AFD1679BE6CC8"/>
+<pb n="6" facs="unknown:007136_0006_102AFD1679BE6CC8"/>
 JESUS CHRIST, was ever introduced into the primitive Love-feaſts? Or do we ever hear, <hi>my Lord,</hi> of Incenſe, or ſomething like it, being burnt for him, in order to perfume the Room before he made his Entrance among the Brethren? Or can it be ſuppoſed that he, who, together with <hi>Barnabas,</hi> ſo eagerly re<g ref="char:EOLhyphen"/>pelled the <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>aonians,</hi> when they brought Oxen and Garlands, in order to ſacrifice unto them, would ever have ſuffered ſuch Things to be done for him, without expreſſing his Ab<g ref="char:EOLhyphen"/>horrence and Deteſtation of them? And yet <hi>your Lordſhip</hi> knows both theſe have been done for you, and ſuffered by you, without your having ſhewn, as far as I can hear, the leaſt Diſlike of them at all <note n="(a)" place="bottom">I might here take Notice of the married Women's being ordered to we<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -225,7 +226,7 @@ JESUS CHRIST, was ever introduced into the primitive Love-feaſts? Or do we ever
             <p>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ain, <hi>my Lord,</hi> I beg Leave to enquire whether we hear any thing in Scripture of Eldreſſes or Deaconneſſes of the apoſtolical Churches ſeating themſelves before a Table covered with artificial Flowers, againſt that
-<pb n="7" facs="tcp:007136_0007_102AFD18932C0138"/>
+<pb n="7" facs="unknown:007136_0007_102AFD18932C0138"/>
 a little Altar ſurrounded with Wax-tapers, on which ſtood a Croſs compoſed either of mock or real Diamonds, or other glittering Stones? And yet <hi>your Lordſhip</hi> muſt be ſenſible this was done in <hi>Fetter-lane</hi> Chapel for Mrs. <hi>Han<g ref="char:EOLhyphen"/>nah Nitſchman,</hi> the preſent General Eldreſs of your Congregation, with this Addition, that all the Siſters were ſeated in <hi>German</hi> Caps, and cloathed in <hi>White,</hi> and the Organ alſo illu<g ref="char:EOLhyphen"/>minated with three Pyramids of Wax-tapers, each of which was tied with a <hi>red</hi> Ribbon, and over the Head of the General Eldreſs was placed her own Picture, and over that (<hi>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>r<g ref="char:EOLhyphen"/>reſco referens</hi>) the Picture of the SON of GOD <note n="(b)" place="bottom">A like Scene to this was exhibited by the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -264,11 +265,11 @@ a little Altar ſurrounded with Wax-tapers, on which ſtood a Croſs compoſed e
                   </gap>-day before-mentioned.</note>. — A goodly Sight this, <hi>my Lord,</hi> for a Company of <hi>Engliſh</hi> Proteſtants to behold! Alas! to what a long Series of childiſh and ſuperſtitious Devotions, and unſcriptural Im<g ref="char:EOLhyphen"/>poſitions muſt they have been habituated, before they could ſit as ſilent and tame Spectators of ſuch an antichriſtian Scene.— Surely, had <hi>Gid<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>on,</hi> though but an Old Teſta<g ref="char:EOLhyphen"/>ment
-<pb n="8" facs="tcp:007136_0008_102AFD1A26B27E80"/>
+<pb n="8" facs="unknown:007136_0008_102AFD1A26B27E80"/>
 Saint, been preſent, he would have riſen and pulled down this, as he formerly did his Father's Altar. Or had even that meek Man <hi>Moſes</hi> been there, I cannot help thinking but he would have addreſſed <hi>your Lordſhip,</hi> partly at leaſt, in the Words with which he addreſ<g ref="char:EOLhyphen"/>ſed his Brother <hi>Aaron, What did this People unto thee, that thou haſt introduced ſuch ſuper<g ref="char:EOLhyphen"/>ſtitious Cuſtoms among them?</hi>
             </p>
             <p>But this is not all; I have another Queſtion to propoſe to <hi>your Lordſhip.</hi> Pray, <hi>my Lord,</hi> did any of the Apoſtles or Leaders of the pri<g ref="char:EOLhyphen"/>mitive Churches ever uſurp an Authority not only over People's Conſciences but Properties alſo, or draw in the Members of their reſpec<g ref="char:EOLhyphen"/>tive Congregations to diſpoſe of whole Patri<g ref="char:EOLhyphen"/>monies at once, or to be bound for Thouſands more than they knew in their own Conſciences they were worth? And yet <hi>your Lordſhip</hi> knows this has been done again and again, in order to ſerve the Purpoſes of the Brethren for ſeveral Years laſt paſt; and that too, at,
-<pb n="9" facs="tcp:007136_0009_102AD727E37E74D0"/>
+<pb n="9" facs="unknown:007136_0009_102AD727E37E74D0"/>
 or very <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -363,7 +364,7 @@ or very <gap reason="illegible" resp="#PDCC" extent="1 letter">
                </note>.</p>
             <p>
                <hi>Your Lordſhip</hi> cannot but be ſenſible that at this preſent Time you ſtand indebted to ſun<g ref="char:EOLhyphen"/>dry Perſons to the Value of Forty Thouſand Pounds Sterling; and unleſs ſome of your Brethren had agreed to ſtay Six Years for about Twenty Thouſand Pounds due to them;
-<pb n="10" facs="tcp:007136_0010_102AFD1D90430660"/>
+<pb n="10" facs="unknown:007136_0010_102AFD1D90430660"/>
 (though after the Expiration of that Term, as they have no Security, in all Probability they will be juſt where they are now) and if the other Creditors alſo, upon Conſideration of ſome Bonds given, and Mortgages made for Principal and Intereſt <note n="(d)" place="bottom">The Buildings in <hi>Yorkſhire, Bedfordſhire,</hi> &amp;c. Beſides this there are ſome Thouſands due to others, upon Bond; and many Thouſands to a particular Gentleman, for which the Count has mortgaged one of the <hi>German</hi> Settlement<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>: I think it is <hi>
@@ -373,7 +374,7 @@ or very <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>orn.</hi>
                </note>, had not agreed to ſtay Four Years for Twenty-one Thouſand Pounds more, many of the poor <hi>Engliſh</hi> Bre<g ref="char:EOLhyphen"/>thren, who out of I know not what Kind of Infatuation, have not only given their All, but have been bound for Thouſands more than
-<pb n="11" facs="tcp:007136_0011_102AFD2061FA1308"/>
+<pb n="11" facs="unknown:007136_0011_102AFD2061FA1308"/>
 they are able to pay, muſt either have imme<g ref="char:EOLhyphen"/>diately become Bankrupts, and thereby the Creditors perhaps not have had a Shilling in the Pound, or have been obliged to ſhut up their Shops, go to Priſon, or be turned out into the wide World, to the utter Ruin of themſelves and Families.</p>
             <p>The Diſtreſs and Anguiſh of Mind that Hundreds have been involved in, upon this very Account, is I believe unſpeakable <note n="(e)" place="bottom">Since my writing this, I have been told of a very ſin<g ref="char:EOLhyphen"/>gular Expedient made uſe of by Mr. <hi>Peter Bo<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -392,7 +393,7 @@ they are able to pay, muſt either have imme<g ref="char:EOLhyphen"/>diately bec
                         <desc>•</desc>
                      </gap>me a Plain.</hi>
                </note>, and the bare Reflection upon it, whilſt I am
-<pb n="12" facs="tcp:007136_0012_102AFD23646D4970"/>
+<pb n="12" facs="unknown:007136_0012_102AFD23646D4970"/>
 writing, makes my Heart almoſt bleed with<g ref="char:EOLhyphen"/>in me.</p>
             <p>Who, who but themſelves, <hi>my Lord,</hi> can tell the late Perplexity of their Mind<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -407,7 +408,7 @@ writing, makes my Heart almoſt bleed with<g ref="char:EOLhyphen"/>in me.</p>
                   </gap>re to leave behind for his poor Mother, (who is ſince dead) was content to ſend her a few parting Lines. Since he has been gone, the Horſe, Watch, Bureau, and Saddle, were ſold for Twenty-ſeven Pounds and Three Shillings; ſo that the young Man has the Balance in Bank. GOD grant that this may prove the laſt Perſon that may be impoſed on in this Wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>!</note> be, who, to ſtop a
-<pb n="13" facs="tcp:007136_0013_102AFD25F0EFB5C0"/>
+<pb n="13" facs="unknown:007136_0013_102AFD25F0EFB5C0"/>
 little of the above-mentioned Gap, was pre<g ref="char:EOLhyphen"/>vailed on, <hi>your Lordſhip</hi> knows by whom, about Eighteen Months ago, to ſell his Eſtate of above Four Hundred Pounds a Year, and went, or was ſent off very lately, as I am aſ<g ref="char:EOLhyphen"/>ſured, to <hi>France,</hi> (leaving a deſtitute Mother behind him) only with Twenty-five Pounds; for the Payment of which he left his Watch, Bureau, Horſe and Saddle.</p>
             <p>Theſe are but a few Inſtances, <hi>my Lord,</hi> amongſt many, indeed, too, too many, that might be given. The Brethren's Agents, and thoſe concerned with them, can beſt tell what horrid Equivocations, Untruths, and low Ar<g ref="char:EOLhyphen"/>tifices, have been made uſe of to procure Mo<g ref="char:EOLhyphen"/>ney, at high Intereſts, wherever it was to be had, in order to keep up the Brethren's Cre<g ref="char:EOLhyphen"/>dit in that poor, lame Manner it has been kept up for a conſiderable Time. Was the whole Scene to be opened, I believe every one would be of Opinion that ſuch an eccle<g ref="char:EOLhyphen"/>ſiaſtical Project never was heard of before in any Part of his Majeſty's Dominions.</p>
             <p>This, <hi>my Lord,</hi> the Royal Exchange has long ſince rung of; and if the ſame Part has been acted abroad <note n="(b)" place="bottom">It appears too plain from Mr. <hi>Rimius,</hi> that this has been the Caſe. And no Wonder, ſince he quotes this Aſſertion of the Counts from his own Writings, <q>The <hi>O<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -418,11 +419,11 @@ little of the above-mentioned Gap, was pre<g ref="char:EOLhyphen"/>vailed on, <h
                         <desc>•</desc>
                      </gap> gone."</q>
                </note>, how many Families muſt have been ruined there, how many more
-<pb n="14" facs="tcp:007136_0014_102AFD282EEA5C58"/>
+<pb n="14" facs="unknown:007136_0014_102AFD282EEA5C58"/>
 be yet ruined, in order to fill up the preſent <hi>Engliſh</hi> Chaſm; and conſequently what Loads of Guilt muſt needs lie at the Door of ſome<g ref="char:EOLhyphen"/>body!</p>
             <p>Surely, the LORD of Lords, whoſe Eyes are like a Flame of Fire, and who re<g ref="char:EOLhyphen"/>quires Truth in the inward Parts, will one Day or other viſit for theſe Things, by bring<g ref="char:EOLhyphen"/>ing to Light the hidden Things of Darkneſs, and thereby making manifeſt the Counſels of the Hearts.</p>
             <p>I need not inform <hi>your Lordſhip</hi> that <hi>Babels</hi> are generally ſuffered to be built pretty high, before GOD comes down to confound the Language of the Builders. If Knaves are employed, (as commonly they are) GOD's Honour is concerned to diſcover them; and if any of his own Children are undeſignedly drawn in, (which is frequently the Caſe) He who hath promiſed not to ſuffer them to be tempted above what they are able to bear, will in Mercy, ſome Way or other, rebuke the Tempter, and make a Way for them to eſcape. It is true, this, in public Concerns, may ſometimes expoſe them to a little worldly Contempt, and, for a While, they may ſeem<g ref="char:EOLhyphen"/>ingly be cruſhed under the Rubbiſh of the fal<g ref="char:EOLhyphen"/>len Fabric; but even this ſhall work together for their Good; and happy will it be for them, if, after all, they at length learn this important Leſſon, viz. <hi>That it is dangerous, upon any Pretence whatſoever, to go from the
-<pb n="15" facs="tcp:007136_0015_102AFD2A8417DA00"/>
+<pb n="15" facs="unknown:007136_0015_102AFD2A8417DA00"/>
 written Word, or give up their Conſciences to the Guidance of my Man, or Body of Men under Heaven.</hi> This, <hi>your Lordſhip</hi> well knows, is what weak and unſtable Souls are too apt to do, and artful and deſigning Men, who are fond of Power, eſpecially if naturally they are of an am<g ref="char:EOLhyphen"/>bitious Turn of Mind, eaſily catch at the pleaſing Bait. But Honeſty, <hi>my Lord,</hi> will be found to be the beſt Policy after all: And therefore God forbid that any who call themſelves the Followers of the Lamb ſhould glory in any thing ſave the Croſs of CHRIST.</p>
             <p>At preſent I ſhall add no more, but earneſt<g ref="char:EOLhyphen"/>ly ſaying <hi>Amen</hi> to that Part of the Brethren's <hi>Litany,</hi> however exceptionable in other Re<g ref="char:EOLhyphen"/>ſpects, <hi>From untimely Projects, and from un<g ref="char:EOLhyphen"/>happily becoming great, keep us our good Lord and God</hi>; and as heartily praying, that the glorious JESUS may proſper all that is Right, and give Grace to correct and amend all that is Wrong among all his People of all Denominations; I ſubſcribe myſelf,</p>
             <closer>
